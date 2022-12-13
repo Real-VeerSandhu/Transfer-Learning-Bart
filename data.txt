@@ -1,0 +1,2 @@
+https://huggingface.co/facebook/bart-large-cnn
+https://huggingface.co/facebook/bart-base
